@@ -1,7 +1,7 @@
 
 public class apples {
 	public static void main(String args[]){
-		double age = 20;
+		double age = 20;  
 		
 		if (age >= 60)
 			System.out.println("Your are old.");
